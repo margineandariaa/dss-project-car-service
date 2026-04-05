@@ -112,12 +112,3 @@ Responsible for the core functionality of the platform — browsing services and
 | `categories` | Service categories |
 | `services` | Individual services linked to categories |
 | `bookings` | Appointment records linked to users and services |
-
----
-
-## Assignment Info
-
-**Course:** Web Technologies Lab  
-**University:** Lucian Blaga University of Sibiu  
-**Team Topic:** Car Service & Repair Booking Platform  
-**Supervisor:** dumitrualexandru.mara@ulbsibiu.ro
